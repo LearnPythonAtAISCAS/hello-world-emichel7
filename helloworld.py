@@ -6,6 +6,7 @@
 ### You will be able to use test_helloWorld.py to test your result
 
 def hello():
+    print('Hello World!')
     #Write your code here
     
 hello()
